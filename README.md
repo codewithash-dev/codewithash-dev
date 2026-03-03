@@ -1,4 +1,4 @@
-# Hi there, I’m Ash 👋
+# Hi there, I’m Ash 👋🏾
 
 I’m Ashley Henderson — a Software Engineer & Content Creator building real‑world apps with **React**, **React Native**, and **TypeScript**.
 
@@ -6,7 +6,7 @@ I like teaching by building systems: e‑commerce platforms, creator analytics d
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack 🚀
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
