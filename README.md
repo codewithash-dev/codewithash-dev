@@ -47,11 +47,3 @@ I teach by building **real apps** — follow along here:
 </p>
 
 ---
-
-## 💌 Let’s Build Something
-
-- 🌐 Website: [codewithash.com](https://www.codewithash.com)  
-- 🐦 Twitter / X: [@codewithash\_](https://twitter.com/codewithash_)  
-- 📷 Instagram: [\_codewithash](https://instagram.com/_codewithash)  
-
-If you like learning by building **production‑ready projects**, you’re in the right place.
