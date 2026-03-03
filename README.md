@@ -1,4 +1,96 @@
-## Hi there 👋
+# Hi there, I’m Ash 👋
 
-I am Ashley Henderson working as Content Creator on YouTube. I am an Experienced Fullstack Developer. Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design.<!--
-**codewithash-dev/codewithash-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ashley Henderson, a Software Engineer & Full‑Stack Developer building modern web and mobile experiences with **React**, **React Native**, and **TypeScript**.
+
+I teach by building **real projects** — e‑commerce apps, creator analytics dashboards, real‑estate platforms and more.
+
+---
+
+## 🔧 Tech Stack
+
+<p>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+<p>
+  <!-- Backend / Data -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+<p>
+  <!-- Payments / Infra / UI -->
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> These are some of the systems I build & break down on **Code With Ash**.
+
+### 🛒 E‑Commerce Platform
+
+A full‑featured e‑commerce app with cart, checkout, payments, and admin dashboard.
+
+- **Frontend**: Next.js, React, Tailwind CSS  
+- **Backend**: Node.js, Prisma, SQLite  
+- **Payments**: Stripe Checkout & Webhooks  
+
+[🔗 View Source / Demo](https://github.com/codewithash-dev/codewithash)  
+[🧱 Buy the Source Code](https://www.codewithash.com/shop)
+
+---
+
+### 📊 Creator Analytics & AI Insights
+
+A creator‑focused analytics dashboard with AI‑powered insights (built with Supabase + modern frontend).
+
+- **Stack**: React, TypeScript, Supabase, Tailwind  
+- **Focus**: Clean UX for charts, metrics, and insights  
+
+[🔗 Creator Analytics Repo](https://github.com/codewithash-dev/creator-analytics)
+
+---
+
+### 🏠 Real Estate Platform
+
+Modern real estate platform with maps, filters, and rich listing UI.
+
+- **Stack**: React, TypeScript, Map APIs, Tailwind  
+- **Focus**: Complex UI state + data‑heavy layouts  
+
+[🔗 Real Estate Platform Repo](https://github.com/codewithash-dev/real-estate-platform)
+
+---
+
+## 📺 Follow / Subscribe
+
+I teach by building **real apps** — follow along here:
+
+<p>
+  <a href="https://www.youtube.com/@CodeWithAshOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.codewithash.com/shop" target="_blank">
+    <img src="https://img.shields.io/badge/Shop-111827?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Shop" />
+  </a>
+  <a href="https://www.codewithash.com/membership" target="_blank">
+    <img src="https://img.shields.io/badge/Supporters-000000?style=for-the-badge&logo=stripe&logoColor=white" alt="Supporters" />
+  </a>
+</p>
+
+---
+
+## 💌 Let’s Build Something
+
+- 🌐 Website: [codewithash.com](https://www.codewithash.com)  
+- 🐦 Twitter / X: [@codewithash\_](https://twitter.com/codewithash_)  
+- 📷 Instagram: [\_codewithash](https://instagram.com/_codewithash)  
+
+If you like learning by building **production‑ready projects**, you’re in the right place.
