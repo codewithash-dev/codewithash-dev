@@ -1,49 +1,42 @@
 # Hi there, I’m Ash 👋
 
-I’m Ashley Henderson, a Software Engineer & Full‑Stack Developer building modern web and mobile experiences with **React**, **React Native**, and **TypeScript**.
+I’m Ashley Henderson — a Software Engineer & Content Creator building real‑world apps with **React**, **React Native**, and **TypeScript**.
 
-I teach by building **real projects** — e‑commerce apps, creator analytics dashboards, real‑estate platforms and more.
+I like teaching by building systems: e‑commerce platforms, creator analytics dashboards, and mobile apps.
 
 ---
 
-## 🔧 Tech Stack
+### ⚙️ Tech Stack
 
 <p>
-  <!-- Core -->
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p>
-  <!-- Backend / Data -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-<p>
-  <!-- Payments / Infra / UI -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ---
 
-## 📺 Follow / Subscribe
+### 📺 Follow / Subscribe
 
-I teach by building **real apps** — follow along here:
+I share project breakdowns and source code here:
 
 <p>
   <a href="https://www.youtube.com/@CodeWithAshOfficial" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.codewithash.com/shop" target="_blank">
-    <img src="https://img.shields.io/badge/Shop-111827?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Shop" />
+    <img src="https://img.shields.io/badge/Shop-111827?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
   <a href="https://www.codewithash.com/membership" target="_blank">
-    <img src="https://img.shields.io/badge/Supporters-000000?style=for-the-badge&logo=stripe&logoColor=white" alt="Supporters" />
+    <img src="https://img.shields.io/badge/Supporters-000000?style=for-the-badge&logo=stripe&logoColor=white" />
   </a>
 </p>
-
----
