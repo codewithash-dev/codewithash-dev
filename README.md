@@ -30,45 +30,6 @@ I teach by building **real projects** — e‑commerce apps, creator analytics d
 
 ---
 
-## 🚀 Featured Projects
-
-> These are some of the systems I build & break down on **Code With Ash**.
-
-### 🛒 E‑Commerce Platform
-
-A full‑featured e‑commerce app with cart, checkout, payments, and admin dashboard.
-
-- **Frontend**: Next.js, React, Tailwind CSS  
-- **Backend**: Node.js, Prisma, SQLite  
-- **Payments**: Stripe Checkout & Webhooks  
-
-[🔗 View Source / Demo](https://github.com/codewithash-dev/codewithash)  
-[🧱 Buy the Source Code](https://www.codewithash.com/shop)
-
----
-
-### 📊 Creator Analytics & AI Insights
-
-A creator‑focused analytics dashboard with AI‑powered insights (built with Supabase + modern frontend).
-
-- **Stack**: React, TypeScript, Supabase, Tailwind  
-- **Focus**: Clean UX for charts, metrics, and insights  
-
-[🔗 Creator Analytics Repo](https://github.com/codewithash-dev/creator-analytics)
-
----
-
-### 🏠 Real Estate Platform
-
-Modern real estate platform with maps, filters, and rich listing UI.
-
-- **Stack**: React, TypeScript, Map APIs, Tailwind  
-- **Focus**: Complex UI state + data‑heavy layouts  
-
-[🔗 Real Estate Platform Repo](https://github.com/codewithash-dev/real-estate-platform)
-
----
-
 ## 📺 Follow / Subscribe
 
 I teach by building **real apps** — follow along here:
